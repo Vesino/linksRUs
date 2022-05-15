@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/blevesearch/bleve v1.0.14
+	github.com/elastic/go-elasticsearch v0.0.0
 	github.com/google/uuid v1.3.0
 	github.com/lib/pq v1.10.5
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f
